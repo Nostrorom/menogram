@@ -2,7 +2,7 @@
 	"name": "menogram",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "svelte-kit dev",
+		"dev": "svelte-kit dev --port 3003",
 		"build": "svelte-kit build",
 		"package": "svelte-kit package",
 		"preview": "svelte-kit preview",
@@ -33,5 +33,9 @@
 		"tslib": "^2.4.0",
 		"typescript": "~4.7.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@fontsource/m-plus-2": "^4.5.9",
+		"@fontsource/syncopate": "^4.5.7"
+	}
 }
