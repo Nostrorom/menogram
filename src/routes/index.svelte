@@ -17,7 +17,7 @@
 			href="https://kit.svelte.dev/"
 			target="_blank"
 			rel="noopener noreferrer"
-			class="h-6 p-1 lg:p-3 bg-slate-600 text-indigo-50 rounded-md bg-opacity-0 hover:bg-opacity-60 opacity-60 hover:opacity-100"
+			class="h-6 p-1 bg-slate-600 text-indigo-50 rounded-md bg-opacity-0 hover:bg-opacity-60 opacity-60 hover:opacity-100"
 		>
 			<Icon icon="svelte" />
 		</a>
@@ -26,7 +26,7 @@
 			href="https://github.com/Nostrorom/menogram"
 			target="_blank"
 			rel="noopener noreferrer"
-			class="h-6 p-1 lg:p-3 bg-slate-600 rounded-md bg-opacity-0 hover:bg-opacity-60 hover:text-indigo-100"
+			class="h-6 p-1 bg-slate-600 rounded-md bg-opacity-0 hover:bg-opacity-60 hover:text-indigo-100"
 		>
 			<Icon icon="github" />
 		</a>
@@ -37,7 +37,7 @@
 			href="https://menogram-astro.vercel.app"
 			target="_blank"
 			rel="noopener noreferrer"
-			class="h-6 p-1 lg:p-3 bg-slate-600 text-indigo-50 rounded-md bg-opacity-0 hover:bg-opacity-60 opacity-60 hover:opacity-100"
+			class="h-6 p-1 bg-slate-600 text-indigo-50 rounded-md bg-opacity-0 hover:bg-opacity-60 opacity-60 hover:opacity-100"
 		>
 			<Icon icon="astro" />
 		</a>
@@ -46,7 +46,7 @@
 			href="https://github.com/Nostrorom/menogram-astro"
 			target="_blank"
 			rel="noopener noreferrer"
-			class="h-6 p-1 lg:p-3 bg-slate-600 rounded-md bg-opacity-0 hover:bg-opacity-60 hover:text-indigo-100"
+			class="h-6 p-1 bg-slate-600 rounded-md bg-opacity-0 hover:bg-opacity-60 hover:text-indigo-100"
 		>
 			<Icon icon="github" />
 		</a>
