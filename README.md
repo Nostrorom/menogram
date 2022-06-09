@@ -6,3 +6,7 @@ An answer to open Front-end Developper position at [monogram](https://www.notion
 ## Can I see?
 
 It's deployed [here](https://menogram.vercel.app) (Vercel)
+
+## What else ?
+
+Glad you asked, there's also the [Astro version](https://menogram-astro.vercel.app)
